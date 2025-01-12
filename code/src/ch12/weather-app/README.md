@@ -18,7 +18,7 @@ $ yarn install
 ```
 
 ## tsconfig.json 복사
-- ch12/weather-app/tsconfig.json 파일을 복사하여 ch12/weather-app/tsconfig.json 파일을 만든다.
+- ch12/weather/tsconfig.json 파일을 복사하여 ch12/weather-app/tsconfig.json 파일을 만든다.
 ```bash
 $ cp ch12/tsconfig.json tsconfig.json
 ```
